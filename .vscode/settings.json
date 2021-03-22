@@ -1,0 +1,8 @@
+{
+    "go.buildOnSave": "workspace",
+    "go.lintOnSave": "off",
+    "go.vetOnSave": "workspace",
+    "editor.rulers": [
+        120
+    ]
+}
